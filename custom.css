@@ -1,0 +1,52 @@
+#sidebar {
+
+  background: #990000;
+
+}
+
+
+
+#postamble {
+
+  background:#336699;
+
+  border-top:solid 10px #99CCFF;
+
+}
+
+
+
+.title {
+
+  text-align: center;
+
+  color: #990000;
+
+}
+
+
+
+.subtitle {
+
+  color: #99CCFF;
+
+}
+
+
+
+h1, h2, h3, h4, h5, h6, legend {
+
+  color: #993333;
+
+}
+
+
+
+#content h2 {
+
+    background-color: #336699;
+
+}
+
+# can change the colors via the code
+# these are hexcodes and you can 

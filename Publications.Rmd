@@ -1,0 +1,16 @@
+---
+title: "Publications"
+output:   
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github 
+---
+### **Manuscripts**
+*  [Enhanced Recovery After Surgery is Associated with Improved Outcomes and Reduced Racial and Ethnic Disparities Following Isolated Coronary Artery Bypass Surgery: A Retrospective Analysis with Propensity Score Matching](https://pubmed.ncbi.nlm.nih.gov/35397958/). 
+*  [Enhanced Recovery After Surgery Is Associated with Reduced Hospital Length of Stay for Urgent or Emergency Isolated Coronary Artery Bypass Surgery At An Urban, Tertiary Care Teaching Hospital: An Interrupted Time Series Analysis](https://pubmed.ncbi.nlm.nih.gov/36379833/). 
+
+### **Poster Presentations**
+* [Antithrombotic Use And Bleeding Risk In Retrobulbar Anesthesia](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://iaapartners.com/wp-content/uploads/2021/11/PGA-Poster-BEQUEST-FINAL.pdf)
+* [Enhanced Recovery After Cardiac Surgery Reduces Duration of Ventilation and Likelihood of Re-Intubation Following Urgent and Emergency Isolated Coronary Artery Bypass Surgery](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://iaapartners.com/wp-content/uploads/2022/04/ERAS_Emergency-CABG_IARS-3-14-22-v6.pdf)
+* [Enhanced Recovery After Cardiac Surgery Reduces Racial and Ethnic Disparities Following Coronary Artery Bypass](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://iaapartners.com/wp-content/uploads/2022/05/ERAS_Elective_CABG_SCA_MAY15-22.pdf) 
+* [Medical Students’ Assessment of Conflicts of Interest in Biomedical Research](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://iaapartners.com/wp-content/uploads/2023/01/Medical-Students-Assessment-of-Conflicts-of-Interest-in-Biomedical-Research.pdf)
